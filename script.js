@@ -9,10 +9,6 @@ var Counter = React.createClass({
         console.log('Początkowy stan propsów ustawiony domyślnie')
     },
 
-    getInitialState: function() {
-        console.log('Początkowy stan komponentu')
-    },
-
     componentWillMount: function() {
         console.log('Metody wywoływana zaraz przed wykonaniem metody render, na ekranie pokazuje stan początkowy')
     },
