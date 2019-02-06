@@ -1,11 +1,13 @@
 body {
     background: #b2bec3;
     font-family: 'Montserrat', sans-serif;
+
 }
 
 div {
     display: block;
     text-align: center;
+
 }
 
 #app {
@@ -13,6 +15,7 @@ div {
     justify-content: center;
     margin-top: 50px;
     line-height: 50px;
+
 }
 
 span {
@@ -33,6 +36,5 @@ button {
     margin: 10px;
     cursor: pointer;
     font-size: 30px;
-
-    
+   
 }
